@@ -1,0 +1,25 @@
+# Training setting
+do_train: True
+evaluate_during_training: True
+num_train_epochs: 3
+per_gpu_train_batch_size: 4
+gradient_accumulation_steps: 8
+
+# Optimizer setting
+optimizer: "adamw"
+learning_rate: 5e-5
+warmup_steps: 1000
+
+# Evaluation setting
+do_eval: True
+do_test: True
+per_gpu_eval_batch_size: 32
+
+# common setting
+model_type: "bert"
+model_name_or_path: "bert-base-uncased"
+max_seq_length: 320
+do_lower_case: True
+overwrite_output_dir: True
+fp16: True
+

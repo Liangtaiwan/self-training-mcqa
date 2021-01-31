@@ -1,0 +1,6 @@
+# exp setting
+label_type: match
+threshold: 50
+max_n_candidates: 4
+loss_type: hard-em
+tau: 8000

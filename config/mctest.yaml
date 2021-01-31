@@ -1,0 +1,4 @@
+task_name: "mctest"
+
+data_dir: "data/MCTest"
+output_dir: "output"

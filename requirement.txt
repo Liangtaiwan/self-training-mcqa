@@ -1,0 +1,10 @@
+numpy
+torch
+transformers==2.9.1
+jsonargparse
+nltk
+fuzzywuzzy
+git+git://github.com/Liangtaiwan/tqdm-logger#egg=tqdm-logger
+tensorboard
+torch_optimizer
+

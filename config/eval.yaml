@@ -1,0 +1,14 @@
+# Evaluation setting
+do_eval: True
+do_test: True
+per_gpu_eval_batch_size: 32
+
+# common setting
+model_type: "bert"
+model_name_or_path: "bert-base-uncased"
+max_seq_length: 320
+do_lower_case: True
+overwrite_output_dir: True
+fp16: True
+
+writer: "tensorboard"

@@ -1,0 +1,1 @@
+{"answers": ["C"], "options": [["How to be a science teacher", "How to be a scientist", "How to do well in science", "How to pay more attention in class"]], "questions": ["Which is the best title for the passage?"], "article": "Are you having trouble in science? If so, read the following tips to learn how to do well in science?", "id": "middle2640.txt"}

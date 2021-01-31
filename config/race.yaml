@@ -1,0 +1,4 @@
+task_name: "race"
+
+data_dir: "data/RACE"
+output_dir: "output"

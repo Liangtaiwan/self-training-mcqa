@@ -10,7 +10,7 @@ Chi-Liang Liu, Hung-yi Lee. [Unsupervised Deep Learning based Multiple Choices Q
 
 
 ```shell
-pip install -r requirement
+pip install -r requirement.txt
 ```
 Warning: If you want to use fp16, please install apex from https://github.com/NVIDIA/apex. Default config run with fp16.
 
